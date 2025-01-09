@@ -1,9 +1,9 @@
 class Controller{
-  void signIn() {
+  void signin() {
     print("User menekan tombol Masuk");
   }
 
-  void signUp() {
+  void signup() {
     print("User menekan tombol Keluar");
   }
 }
